@@ -1,4 +1,4 @@
-package com.infoshareacademy;
+package com.infoshareacademy.InterfaceDzialaniaMatematyczne;
 
 public class Multiplication implements Computation {
 

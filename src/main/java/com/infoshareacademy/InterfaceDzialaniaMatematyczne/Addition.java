@@ -1,4 +1,4 @@
-package com.infoshareacademy;
+package com.infoshareacademy.InterfaceDzialaniaMatematyczne;
 
 public class Addition implements Computation{
     @Override

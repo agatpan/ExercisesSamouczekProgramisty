@@ -1,6 +1,5 @@
-package com.infoshareacademy;
+package com.infoshareacademy.SredniaOcen;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
