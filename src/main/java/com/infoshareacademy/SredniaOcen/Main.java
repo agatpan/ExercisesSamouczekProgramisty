@@ -11,19 +11,19 @@ public class Main {
     public Main(int liczbaPrzedmiotow, int liczbaOcen) {
         this.liczbaPrzedmiotow = liczbaPrzedmiotow;
         this.liczbaOcen = liczbaOcen;
-        initializeOceny();
+        podajeOceny();
     }
-    private void initializeOceny(){
+    private void podajeOceny(){
         oceny = new int[liczbaPrzedmiotow][];
         for (int nrPrzedmiotu = 0; nrPrzedmiotu < oceny.length ; nrPrzedmiotu++) {
-            oceny[nrPrzedmiotu] = new int[liczbaPrzedmiotow];
+            oceny[nrPrzedmiotu] = new int[liczbaOcen];
         }
     }
     public void getOcenyOdUcznia(){
         Scanner scanner = new Scanner(System.in);
         for (int nrPrzedmiotu = 0; nrPrzedmiotu < liczbaPrzedmiotow ; nrPrzedmiotu++) {
             for (int nrOceny = 0; nrOceny < liczbaOcen ; nrOceny++) {
-                System.out.println("Podaj ocenę numer "+ (nrOceny + 1) + " dla przedmiotu numer "+ (nrPrzedmiotu+1)+": ");
+                System.out.println("Podaj ocenę numer "+ (nrOceny + 1) + " dla przedmiotu numer "+ (nrPrzedmiotu + 1)+": ");
                 oceny[nrPrzedmiotu][nrOceny]= scanner.nextInt();
             }
 
@@ -38,7 +38,7 @@ public class Main {
                 sredniaPrzedmiotow += ocena;
             }
 
-            sredniaPrzedmiotow/= liczbaPrzedmiotow;
+            sredniaPrzedmiotow /= liczbaPrzedmiotow;
             System.out.println("średnia dla przedmiotu numer "+ (nrPrzedmiotu+1)+ " wynosi "+ sredniaPrzedmiotow);
             calkowitaSrednia += sredniaPrzedmiotow;
         }
