@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ec687a0-7450-4e8a-9486-aa950a9f1f67" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/Addition.java" afterPath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/InterfaceDzialaniaMatematyczne/Addition.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/Computation.java" afterPath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/InterfaceDzialaniaMatematyczne/Computation.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/SredniaOcen/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/Main2.java" afterPath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/InterfaceDzialaniaMatematyczne/Main2.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/Multiplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/InterfaceDzialaniaMatematyczne/Multiplication.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/components/Layout.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/pages/About.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/pages/Contact.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/pages/Error404.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/pages/Index.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/pages/Login.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/services/AppModule.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/services/DevelopmentModule.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infoshareacademy/services/QaModule.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/infoshareacademy/components/Layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/infoshareacademy/pages/About.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/infoshareacademy/pages/Contact.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/infoshareacademy/pages/Error404.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/infoshareacademy/pages/Index.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/infoshareacademy/pages/Login.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/infoshareacademy/services/AppModule$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/infoshareacademy/services/AppModule.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/infoshareacademy/services/DevelopmentModule.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/infoshareacademy/services/QaModule.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -389,12 +364,20 @@
       <option name="presentableId" value="Default" />
       <updated>1516913707207</updated>
       <workItem from="1516913716189" duration="494000" />
-      <workItem from="1516970601210" duration="202000" />
+      <workItem from="1516970601210" duration="291000" />
     </task>
+    <task id="LOCAL-00001" summary="grupowanie">
+      <created>1516970903342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516970903342</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="696000" />
+    <option name="totallyTimeSpent" value="785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -435,6 +418,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="grupowanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="grupowanie" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
